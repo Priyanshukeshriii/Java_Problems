@@ -12,3 +12,6 @@ public class ElementPersent {
         System.out.println(isPersent(new int[]{1, 4, 6},4));
     }
 }
+
+
+
